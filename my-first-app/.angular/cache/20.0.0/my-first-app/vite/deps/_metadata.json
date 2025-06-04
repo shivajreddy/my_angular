@@ -7,25 +7,41 @@
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
+<<<<<<< HEAD
       "fileHash": "c3c3142b",
+=======
+      "fileHash": "d21a78a7",
+>>>>>>> refs/remotes/origin/main
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
+<<<<<<< HEAD
       "fileHash": "1a5781f1",
+=======
+      "fileHash": "ac9addd9",
+>>>>>>> refs/remotes/origin/main
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
+<<<<<<< HEAD
       "fileHash": "d257baca",
+=======
+      "fileHash": "f79cb4e5",
+>>>>>>> refs/remotes/origin/main
       "needsInterop": false
     },
     "zone.js": {
       "src": "../../../../../../node_modules/zone.js/fesm2015/zone.js",
       "file": "zone__js.js",
+<<<<<<< HEAD
       "fileHash": "1ddd175e",
+=======
+      "fileHash": "23acdd89",
+>>>>>>> refs/remotes/origin/main
       "needsInterop": true
     }
   },
